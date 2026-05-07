@@ -1,4 +1,4 @@
-# aster of AI
+# Master of AI
 Comparative Analysis Across Five AI Perspectives
 
 Author: Master (inchacomisho / inchacomusho)  
